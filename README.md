@@ -5,4 +5,4 @@
 * **Icomoon** is a free and performant web-font icon set. [See more](https://icomoon.io/)
 
 #### About
-This is a collection of fun facts, or otherwise quick tips, for front-end developers. This is mostly stuff I personally didn't know, so this may not be as informative to some, or not informative enough for others. 
+This is a collection of fun facts, or otherwise quick tips, for front-end developers. This is all stuff I personally found helpful, so this may not be as helpful to some.
